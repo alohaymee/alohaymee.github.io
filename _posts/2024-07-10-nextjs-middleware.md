@@ -125,7 +125,7 @@ matcher 설정 규칙
 4. 괄호 안에 정규 표현식을 사용할 수 있다. `/abount/(.*)` 는 `/about/:path*` 와 일치한다. 
 
 #### 조건문 사용
-정말 단순한 경우라면 나쁘지 않겠지만 실무에서 사용할 일은 없을 것 같다.  
+matcher 는 단순한 필터링만 필요한 경우, 복잡한 처리가 필요하다면 조건문을 피할 수 없다.  
 예시
 ```javascript
 import { NextResponse } from 'next/server'
