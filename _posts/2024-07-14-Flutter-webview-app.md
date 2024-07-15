@@ -7,7 +7,7 @@ categories: Flutter
 
 Flutter 이용하여 가볍게 웹뷰를 띄워보자. "Must Have 코드팩토리의 플러터 프로그래밍" 도서를 참고했다.
 
-#### 코드
+### 코드
 **main.dart**
 ```dart
 import 'package:flutter/material.dart';
@@ -67,5 +67,8 @@ class HomeScreen extends StatelessWidget {
 - AppBar 에서 action 속성에 홈 아이콘 버튼을 추가함(추가된 버튼은 순서대로 우측 상단에 나열됨)
 - 상단에 미리 정의해둔 `webViewController` 를 `WebViewWidget` 의 `controller` 로 등록함
 
-#### 결과물
-![작업 결과](../src/imgs/flutter_webview_sample.gif)
+### 결과물
+![작업 결과]({{site_url}}/src/imgs/flutter_webview_sample.gif)
+
+### 소스 코드
+https://github.com/alohaymee/flutter-sampler/tree/webview-sample
