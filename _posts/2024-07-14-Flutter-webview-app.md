@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Flutter Webview app"
 date: 2024-07-14 13:51:23 +0900
 categories: Flutter

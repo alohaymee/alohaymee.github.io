@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "github 페이지 만들다 - with Jekyll"
 date: 2024-07-09 17:47:41 +0900
 categories: jekyll github

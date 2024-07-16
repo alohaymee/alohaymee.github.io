@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Next.js Middleware 정리"
 date: 2024-07-10 13:16:23 +0900
 categories: Nextjs
